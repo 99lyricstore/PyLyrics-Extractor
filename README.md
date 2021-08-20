@@ -23,6 +23,7 @@ pip install lyrics-extractor
   * Add any of the following or all websites as per your choice in your Custom Search Engine:
     * https://genius.com/
     * http://www.lyricsted.com/
+    * https://99lyricstore.com/
     * http://www.lyricsbell.com/
     * https://www.glamsham.com/
     * http://www.lyricsoff.com/
